@@ -8,12 +8,12 @@
 
 <h3 align="left">Languages and tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="40"/>
-  <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://shields.io/badge/HTML-f48433?logo=html5&style=for-the-badge"/>
+  <img src="https://shields.io/badge/CSS-189ded?logo=css3&style=for-the-badge"/>
+  <img src="https://shields.io/badge/Bootstrap-330d6a?logo=bootstrap&style=for-the-badge"/>
 </p>
 
 <h3 align="left">Contacts</h3>
 <p align="left">
-  <img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/>
+  <a href="https://www.vk.com/mcbooster><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
 </p>
