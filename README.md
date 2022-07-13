@@ -15,5 +15,5 @@
 
 <h3 align="left">Contacts</h3>
 <p align="left">
-
+  <img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/>
 </p>
