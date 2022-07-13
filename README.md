@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vlad</h1>
-<h3 align="center">A beginner frontend developer. Track my progress in web development from scratch =)</h3>
+<h3 align="center">A beginner frontend developer.</h3>
 
 - 🌱 I’m currently learning **CSS**
 
