@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayriix?tab=repositories](https://github.com/ayriix?tab=repositories)
+- 👨‍💻 All of my projects are available in my GitHub [https://github.com/ayriix?tab=repositories](repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
