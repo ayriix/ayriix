@@ -1,4 +1,4 @@
-<h1 align="center" color="#333333">Hey, I'm Vlad<br>A frontend developer.</h1>
+<h1 align="center" color="#000000">Hey, I'm Vlad<br>A frontend developer.</h1>
 
 
 - 👨‍💻 All of my projects are available in my GitHub [repositories](https://github.com/ayriix?tab=repositories)
