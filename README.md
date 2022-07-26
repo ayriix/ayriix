@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vlad</h1>
-<h3 align="center">A beginner frontend developer.</h3>
+<h3 align="center">A frontend developer.</h3>
 
 - 🌱 I’m currently learning **CSS**
 
@@ -17,3 +17,4 @@
 <p align="left">
   <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
 </p>
+[![Ayriix's github stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)](https://github.com/ayriix)
