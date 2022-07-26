@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://shields.io/badge/HTML-f48433?logo=html5&style=for-the-badge"/>
   <img src="https://shields.io/badge/CSS-189ded?logo=css3&style=for-the-badge"/>
-  <img src="https://shields.io/badge/Bootstrap-330d6a?logo=bootstrap&style=for-the-badge"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg width="40" height="40"/>
 </p>
 
 <h3 align="left">Contacts</h3>
