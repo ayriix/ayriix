@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vlad</h1>
 <h3 align="center">A frontend developer.</h3>
 
-<h4 align="right">[![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)]</h4>
+<div align="right">[![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)]</div>
 - 👨‍💻 All of my projects are available in my GitHub [repositories](https://github.com/ayriix?tab=repositories)
 
 
