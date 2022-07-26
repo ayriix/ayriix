@@ -1,7 +1,7 @@
-<h1 style="color: #111111; align: center">Hey, I'm Vlad<br>A frontend developer.</h1>
+<h1 align="center">Hey, I'm Vlad<br>A frontend developer.</h1>
 
 
-- 👨‍💻 All of my projects are available in my GitHub [repositories](https://github.com/ayriix?tab=repositories)
+![#f03c15]- 👨‍💻 All of my projects are available in my GitHub [repositories](https://github.com/ayriix?tab=repositories)`#f03c15`
 
 
 <h3 align="left">Languages and tools</h3>
