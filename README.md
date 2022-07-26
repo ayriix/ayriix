@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vlad</h1>
 <h3 align="center">A frontend developer.</h3>
 
-![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)
+
 - 👨‍💻 All of my projects are available in my GitHub [repositories](https://github.com/ayriix?tab=repositories)
 
 
@@ -16,3 +16,5 @@
 <p align="left">
   <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
 </p>
+
+![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)
