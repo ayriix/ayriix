@@ -3,9 +3,13 @@
 <h3 align="left">Contacts</h3>
 <p align="left">
   <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
-  <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/TELEGRAM-black?logo=tg&style=for-the-badge"/></a>
+  <a href="https://t.me/CEKCMEPTB" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Other</h3>
 
 ![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=ayriix&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ayriix&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
