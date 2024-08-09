@@ -3,6 +3,7 @@
 <h3 align="left">Contacts</h3>
 <p align="left">
   <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
+  <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/TELEGRAM-black?logo=tg&style=for-the-badge"/></a>
 </p>
 
 <h3 align="left">Other</h3>
