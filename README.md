@@ -11,4 +11,4 @@
 <p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=ayriix&theme=highcontrast&hide_border=true&border_radius=12&card_width=800">
 </p>
-[![Ayriix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayriix)](https://github.com/ayriix/github-readme-stats)
+[![Ayriix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayriix&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)](https://github.com/ayriix/github-readme-stats)
