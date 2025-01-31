@@ -10,7 +10,7 @@
 <h3 align="left">Other</h3>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ayriix&show_icons=true&theme=dark&border_radius=12"
+    srcset="https://github-readme-stats.vercel.app/api?username=ayriix&show_icons=true&theme=dark&border_radius=12&text_color=cccccc"
     media="(prefers-color-scheme: dark)"
   />
   <source
