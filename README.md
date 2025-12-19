@@ -3,8 +3,7 @@
 <h3 align="left">Contacts</h3>
 
 <p align="left">
-  <a href="https://www.vk.com/mcbooster" target="_blank"><img src="https://shields.io/badge/VKONTAKTE-black?logo=vk&style=for-the-badge"/></a>
-  <a href="https://t.me/kmtsvg" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/kotyndy" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Other</h3>
